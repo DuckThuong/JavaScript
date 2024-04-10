@@ -13,7 +13,7 @@ body{
     border: 2px solid black;
     border-radius: 5px;
     width: 300px;
-    height: 330px;
+    height: 300px;
     margin-top: 10%;
     display: flex;
     flex-wrap: wrap;
@@ -28,10 +28,9 @@ h1{
     width:100%;
 }
 input{
-    float: right;
-    width: 200px;
-}
-span{
-    float: left;
-    margin-left: 30px;
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 25px 20px 25px;
 }
